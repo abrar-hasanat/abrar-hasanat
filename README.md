@@ -1,6 +1,5 @@
 ## Hi, I'm Abrar Mohammad Hasanat
 ### Economics, Public Polic, Statistics & Data Science @ Carleton College | Bridging the gap between raw data and corporate strategy.
-*"Strategy without rigorous, data-backed execution is just a hallucination."*
 
 I am an Economics and Data Science student (Starr Scholar) specializing in translating complex raw data into strategic business execution. Whether I am engineering automated Power BI pipeline trackers to capture high-value commercial tenders, leading User Acceptance Testing (UAT) for a legacy-to-cloud ERP migration, or driving 45% YoY revenue growth for an international e-commerce venture, I focus on identifying operational bottlenecks and deploying mathematical solutions.
 
