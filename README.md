@@ -44,9 +44,9 @@ Converted a planned 3x research-team expansion into a phased staffing roadmap, m
 
 Prepared 35+ workflows for the Colleague-to-Workday migration, executed UAT cases, and reduced the transcript-processing backlog by 15%.
 
-**Founder | Wishing Star by Shantu | June 2021 to Present**
+**Founder | Wishing Star by Shantu | June 2021 to August 2023**
 
-Built cross-border procurement and fulfillment operations, increasing year-over-year revenue by 45% (+$18.9k).
+Built cross-border procurement and fulfillment operations, increasing year-over-year revenue by 45% (+$18.9k). Since August 2023, retain passive ownership only while the local team independently runs operations.
 
 **Executive Assistant to the CEO | Stargate TechMax LTD. | May 2021 to June 2023**
 
