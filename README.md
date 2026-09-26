@@ -10,6 +10,14 @@ Senior at Carleton College completing a B.A. in Economics in June 2027 with mino
 
 I build decision tools and operating workflows that connect quantitative analysis with business decisions. My work spans financial valuation, delivery forecasting, demand planning, tender operations, and enterprise-system implementation.
 
+## Featured Research
+
+### Bangladesh Apparel Trade and Worker Protection after Rana Plaza
+
+Rebuilt a historical trade-policy project as a reproducible study of US apparel sourcing from 2010 to 2019. Validated 120 official UN Comtrade records, audited historical GSP coverage, and decomposed Bangladesh's market-share change. The analysis is descriptive and does not attribute trade growth or worker outcomes to a single reform.
+
+[Read the Project](https://abrarhasanat.com/projects/bangladesh-rmg) | [Explore the Dashboard](https://abrarhasanat.com/dashboards/bangladesh-rmg) | [Reproduce the Analysis](https://github.com/abrar-hasanat/executive-portfolio/tree/main/research/bangladesh-rmg)
+
 ## Featured Decision Tools
 
 ### Enterprise Financial Valuation Engine
