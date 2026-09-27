@@ -14,7 +14,7 @@ I build decision tools and operating workflows that connect quantitative analysi
 
 ### Bangladesh Apparel Trade and Worker Protection after Rana Plaza
 
-Rebuilt a historical trade-policy project as a reproducible study of US apparel sourcing from 2010 to 2019. Validated 120 official UN Comtrade records, audited historical GSP coverage, and decomposed Bangladesh's market-share change. The analysis is descriptive and does not attribute trade growth or worker outcomes to a single reform.
+Analyzed 120 official UN Comtrade records covering US apparel sourcing from 2010 to 2019. Decomposed Bangladesh's 0.657-percentage-point market-share gain between 2012 and 2018, examined GSP coverage, and assessed worker-protection policy using published labor research. The interactive dashboard compares sourcing patterns across five suppliers.
 
 [Read the Project](https://abrarhasanat.com/projects/bangladesh-rmg) | [Explore the Dashboard](https://abrarhasanat.com/dashboards/bangladesh-rmg) | [Reproduce the Analysis](https://github.com/abrar-hasanat/executive-portfolio/tree/main/research/bangladesh-rmg)
 
